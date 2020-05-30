@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileExplorer", "FileExplorer.csproj", "{A3405A54-0BF7-4765-BC3C-CD20413A9985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptApplication", "..\CryptApplication\CryptApplication\CryptApplication.csproj", "{6CEAFBB3-9847-4D05-9CD5-EBEFEA529548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3405A54-0BF7-4765-BC3C-CD20413A9985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3405A54-0BF7-4765-BC3C-CD20413A9985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3405A54-0BF7-4765-BC3C-CD20413A9985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3405A54-0BF7-4765-BC3C-CD20413A9985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CEAFBB3-9847-4D05-9CD5-EBEFEA529548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEAFBB3-9847-4D05-9CD5-EBEFEA529548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEAFBB3-9847-4D05-9CD5-EBEFEA529548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEAFBB3-9847-4D05-9CD5-EBEFEA529548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC4FBA1-0BFA-46B4-ACF5-88B8793055F6}
+	EndGlobalSection
+EndGlobal
